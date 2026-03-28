@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Prerna Sharma 👋
+
+## About Me
+I am a B.Tech student currently pursuing my degree in Computer Science, and I am in my first year.
+
+## My Learning Goal
+I hope to improve my programming skills, build meaningful projects, and gain practical knowledge in technology over the next few years.
 
 <!--
 **prernaharsh25-oss/prernaharsh25-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
