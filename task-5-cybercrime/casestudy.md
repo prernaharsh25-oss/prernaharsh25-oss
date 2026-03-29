@@ -1,5 +1,7 @@
 # Case Study: Phishing Attack
 
 Phishing is a cybercrime in which attackers pretend to be a trusted person or organization in order to steal sensitive information such as passwords, bank details, OTPs, or login credentials. It is especially dangerous because the message often appears genuine, making it difficult for people to identify the scam immediately. College students are common targets because they frequently use email, online portals, cloud platforms, and digital payment apps.
+
 A realistic phishing incident can begin when a student receives an email that appears to be from their college administration or a popular service such as Google or a bank. The email may claim that the student’s account will be suspended unless they verify their login details immediately. It often includes an official-looking logo, urgent wording, and a clickable link. When the student clicks the link, they are redirected to a fake website that closely resembles the original one. Believing it to be real, the student enters their username, password, or personal information. The attacker then captures these details and may use them to access accounts, steal money, misuse data, or send more phishing messages from the victim’s account.
+
 The consequences of phishing can include financial loss, identity theft, privacy breaches, and loss of access to important academic or personal accounts. This case shows how a small moment of carelessness online can lead to serious digital and financial harm.
