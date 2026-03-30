@@ -1,4 +1,4 @@
-# Hi, I'm Prerna Sharma 👋
+# Hi, I'm Prerna Sharma 
 
 ## About Me
 I am a B.Tech student currently pursuing my degree in Computer Science, and I am in my first year.
