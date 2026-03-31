@@ -21,25 +21,11 @@ For this task, I explored both a coding practice platform and a cloud collaborat
 ### Part A – Coding Practice
 I created an account on **HackerRank** and completed a beginner-level challenge to improve my coding and problem-solving skills.
 
-**Uploaded Proof:**
-- `task-3-platforms/hackerrank-challenge.png`
-
 ### Part B – Google Workspace Collaboration
 I created a **Digital Literacy Awareness Google Form** for students and linked it with **Google Sheets** to collect responses.
 
 **Google Form Link:** https://forms.gle/FMLB7KzwGCmxyoQs6
 
-**Uploaded Proof:**
-- `task-3-platforms/google-form.png`
-- `task-3-platforms/google-sheet-response.png`
-<!--
-**prernaharsh25-oss/prernaharsh25-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
