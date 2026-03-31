@@ -15,13 +15,13 @@ The main objective of this project is to highlight the importance of digital lit
 Through this project, learners can gain practical knowledge about navigating the digital world, protecting their personal information, and using online platforms productively. Overall, this project serves as a simple yet meaningful step toward building a more digitally aware and empowered society.
 
 
-##Task 1: Digital Literacy Awareness Infographic
+## Task 1: Digital Literacy Awareness Infographic
 
 For this task, I created a digital literacy awareness infographic using Canva. The infographic is designed for students and explains important concepts such as the meaning of digital literacy, useful digital tools, safe internet practices, and professional online presence.
 
 Files Included:
 
-task-1-presentation/digital-literacy-infographic.png
+                    task-1-presentation/digital-literacy-infographic.png
 ## Task 3: Explore Coding & Collaboration Platforms
 
 For this task, I explored both a coding practice platform and a cloud collaboration tool.
