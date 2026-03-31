@@ -28,10 +28,10 @@ task-1-presentation/digital-literacy-infographic.png
 For this task, I created and updated my student digital portfolio on platforms such as GitHub, LinkedIn, and Kaggle. This helped me understand how online profiles can be used to showcase academic identity, learning goals, and future professional development.
 
 Files Included:
--task-2-portfolio/github-profile.png
--task-2-portfolio/github-readme.png
--task-2-portfolio/linkedin-profile.png
--task-2-portfolio/kaggle-profile.png
+-`task-2-portfolio/github-profile.png
+-`task-2-portfolio/github-readme.png
+-`task-2-portfolio/linkedin-profile.png
+-`task-2-portfolio/kaggle-profile.png
 
 
 ## Task 3: Explore Coding & Collaboration Platforms
