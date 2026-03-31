@@ -20,8 +20,21 @@ Through this project, learners can gain practical knowledge about navigating the
 For this task, I created a digital literacy awareness infographic using Canva. The infographic is designed for students and explains important concepts such as the meaning of digital literacy, useful digital tools, safe internet practices, and professional online presence.
 
 Files Included:
+task-1-presentation/digital-literacy-infographic.png
 
-                    task-1-presentation/digital-literacy-infographic.png
+
+## Task 2: Build Your Student Digital Portfolio
+
+For this task, I created and updated my student digital portfolio on platforms such as GitHub, LinkedIn, and Kaggle. This helped me understand how online profiles can be used to showcase academic identity, learning goals, and future professional development.
+
+Files Included:
+
+task-2-portfolio/github-profile.png
+task-2-portfolio/github-readme.png
+task-2-portfolio/linkedin-profile.png
+task-2-portfolio/kaggle-profile.png
+
+
 ## Task 3: Explore Coding & Collaboration Platforms
 
 For this task, I explored both a coding practice platform and a cloud collaboration tool.
@@ -34,4 +47,22 @@ I created a **Digital Literacy Awareness Google Form** for students and linked i
 
 **Google Form Link:** https://forms.gle/FMLB7KzwGCmxyoQs6
 
+## Task 4 Practice Professional Digital Communication
+
+For this task, I drafted two professional emails and created a social media do’s and don’ts checklist for students. This task helped me understand the importance of professional writing, respectful online communication, and responsible digital behavior.
+
+Files Included:
+
+task-4-email-etiquette/Email1.docx
+task-4-email-etiquette/Email2.docx
+task-4-email-etiquette/social-media-checklist.md
+
+## Task 5: Cybercrime Awareness & Prevention
+
+For this task, I researched phishing attacks as a common cybercrime. I prepared a short case study explaining how phishing happens, who is affected, and its consequences. I also created a prevention checklist to spread awareness and encourage safe online practices.
+
+Files Included:
+
+task-5-cybercrime/casestudy.md
+task-5-cybercrime/prevention-checklist.md
 
